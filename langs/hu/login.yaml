@@ -1,15 +1,13 @@
-################## TITLE ####################################
+title: "Bejelentkezés - Librebucket"
 
-"Bejelentkezés - Librebucket"
+form:
+  username_or_email: "Felhasználónév vagy e-mail"
+  password: "Jelszó"
 
-################## FORMS ####################################
+text:
+  forgot_password: "Elfelejtette a jelszavát?"
+  no_account: "Nincs fiókja?"
 
-"Felhasználónév vagy e-mail"
-"Jelszó"
-
-################## TEXT & BUTTONS ###########################
-
-"Elfelejtette a jelszavát?"
-"Bejelentkezés"
-"Nincs fiókja?"
-"Regisztráció"
+buttons:
+  sign_in: "Bejelentkezés"
+  register: "Regisztráció"

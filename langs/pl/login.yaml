@@ -1,15 +1,13 @@
-################## TITLE ####################################
+title: "Zaloguj się - Librebucket"
 
-"Zaloguj się - Librebucket"
+form:
+  username_or_email: "Nazwa użytkownika lub adres e-mail"
+  password: "Hasło"
 
-################## FORMS ####################################
+text:
+  forgot_password: "Zapomniałeś hasła?"
+  no_account: "Nie masz konta?"
 
-"Nazwa użytkownika lub adres e-mail"
-"Hasło"
-
-################## TEXT & BUTTONS ###########################
-
-"Zapomniałeś hasła?"
-"Zaloguj się"
-"Nie masz konta?"
-"Zarejestruj się teraz"
+buttons:
+  sign_in: "Zaloguj się"
+  register: "Zarejestruj się teraz"

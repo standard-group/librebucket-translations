@@ -1,15 +1,13 @@
-################## TITLE ####################################
+title: "Iniciar sesión - Librebucket"
 
-"Iniciar sesion - Librebucket"
+form:
+  username_or_email: "Nombre de usuario o correo electrónico"
+  password: "Contraseña"
 
-################## FORMS ####################################
+text:
+  forgot_password: "¿Se te olvidó la contraseña?"
+  no_account: "¿No tienes cuenta?"
 
-"Nombre de usuario o correo electronico"
-"Contraseña"
-
-################## TEXT & BUTTONS ###########################
-
-"Se te olvido la Contraseña"
-"Iniciar Sesion"
-"No tienes cuenta?"
-"Registrate Ahora"
+buttons:
+  sign_in: "Iniciar sesión"
+  register: "Regístrate ahora"

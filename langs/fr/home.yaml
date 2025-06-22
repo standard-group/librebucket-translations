@@ -31,49 +31,49 @@
 "Librebucket fait moins de 500MB et est rapide comme l'éclair, même"
 "un Raspberry Pi peut l'exécuter !"
 
-"Coffee To Go, easy install &amp; maintain"
+"Relaxez vous, installation &amp; maintenance facile"
 
 # also one line
-"Our 'bucket' is packed with tools and stuff already, for"
-"developers, by developers."
+"Notre 'seau' est rempli d'outils et de choses, pour"
+"des développeurs, par des développeurs."
 
 # also one line
-"Self-hosted alternative to GitHub and GitLab"
-"awesome alternative!"
+"Alternative auto-hébergée a GitHub et GitLab"
+"Une alternative incroyable !"
 
 # also one line
-"GitHub and GitLab are full of telemetry. Librebucket is an"
-"awesome alternative!"
+"GitHub et GitLab sont remplies de télémétrie. Librebucket est une"
+"alternative incroyable !"
 
-"100% Free and OSS"
-
-# also one line
-"Standard Group loves open-source. Librebucket will be"
-"forever free and open-source!"
-
-"Get Involved"
+"100% gratuit et OSS!"
 
 # also one line
-"Librebucket is made by many motivated people, and we are looking"
-"forward to your contribution. Small or big contributions, you are"
-"still making big steps for Librebucket."
+"Les gens adorent l'opensource. Librebucket le sera"
+"gratuit et opensource pour la vie !"
+
+"Rejoignez-nous"
+
+# also one line
+"Librebucket est fait par de nombreuses personnes motivées, et nous recherchons"
+"votre contribution. Grande ou petite contribution, vous êtes"
+"toujours enrain d'aider Librebucket."
 
 ################# BUTTONS ###################################
 
-"Contribute on Github"
+"Contribuez sue GitHub."
 
-"Donate"
+"Dons"
 
 ################## FOOTER ###################################
 
-"Version: {{.AppVersion}}"
+"Version : {{.AppVersion}}"
 
-"This home page is running on Librebucket"
+"Cette page tourne sur Librebucket"
 
 # also one line
   "Copyright © 2025 Librebucket authors. Content available under CC"
 "BY-SA 4.0."
 
-"Credit to the Forgejo's contributors for design inspiration."
+"Credit aux contributeurs Forgejo's pour l'inspiration du design.."
 
 "Licenses"

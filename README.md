@@ -77,7 +77,7 @@ This repository has MIT license, please follow it.
 - [X] Slovak - 100% (translators: [`@_devourn_`]())
 - [ ] Slovenian - 0%
 - [X] Spanish - 100% (translators: [@rub3nve]())
-- [X] Swedish - 100% (translators: [@filiduttensomlever]())
+- [X] Swedish - 100% (translators: [@filiduttensomlever](https://github.com/Filiduttensomlever))
 - [ ] Turkish - 0%
 - [X] Ukrainian - 100% (translators: [@Maxfm4ikProjects2](https://github.com/Maxfm4ikProjects2))
 ---

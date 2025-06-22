@@ -1,0 +1,13 @@
+title: "Logga in - Librebucket"
+
+form:
+  username_or_email: "Användarnamn eller e-post"
+  password: "Lösenord"
+
+text:
+  forgot_password: "Glömt bort ditt lösenord?"
+  no_account: "Har du redan ett konto?"
+
+buttons:
+  sign_in: "Logga in"
+  register: "Registrera dig nu"

@@ -40,6 +40,48 @@ This repository has MIT license, please follow it.
 
 ---
 
+## Credits:
+
+- [X] English - 100% (translators: [@techplayz32](https://github.com/techplayz32))
+- [ ] Arabic - 3% (translators: [@aithereh]())
+- [ ] Belarussian - 0%
+- [ ] Bosnian - 0%
+- [ ] Bulgarian - 0%
+- [ ] Catalan - 0%
+- [ ] Chinese (Simplified & Traditional) - 0% (translators: [@lore_aa]())
+- [ ] Czech - 0%
+- [ ] Dannish - 0%
+- [ ] Dutch - 0%
+- [ ] Estonian - 0%
+- [ ] Filipino - 0%
+- [ ] Finnish - 0%
+- [X] French - 100% (translators: [@viperdank](https://github.com/viperdank))
+- [ ] Georgian - 0%
+- [ ] German - 0% (translators: [@acx_legit]())
+- [ ] Greek - 0%
+- [ ] Hebrew - 0%
+- [ ] Hindi - 0%
+- [X] Hungarian - 100% (translators: [@Maxfm4ikProjects2](https://github.com/Maxfm4ikProjects2))
+- [ ] Irish - 0%
+- [ ] Italian - 0%
+- [ ] Japanese - 0%
+- [ ] Korean - 0%
+- [ ] Latvian - 0%
+- [ ] Lithuanian - 50% (translators: [@Aidyzaspro]())
+- [ ] Norwegian - 0%
+- [ ] Persian - 0%
+- [X] Polish - 100% (translators: [@official_telski]())
+- [ ] Portuguese (Brazil, Portugal) - 0%
+- [ ] Romanian - 0%
+- [ ] Russian - 100% (translators: [@EBlade-z](https://github.com/EBlade-z))
+- [X] Slovak - 100% (translators: [`@_devourn_`]())
+- [ ] Slovenian - 0%
+- [X] Spanish - 100% (translators: [@rub3nve]())
+- [X] Swedish - 100% (translators: [@filiduttensomlever]())
+- [ ] Turkish - 0%
+- [X] Ukrainian - 100% (translators: [@Maxfm4ikProjects2](https://github.com/Maxfm4ikProjects2))
+---
+
 ## Contact
 
 If you have any questions about contributing, feel free to open an issue or reach out to the maintainers.

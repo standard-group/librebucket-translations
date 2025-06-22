@@ -1,0 +1,13 @@
+title: "Prihlásiť sa - Librebucket"
+
+form:
+  username_or_email: "užívateľské meno alebo email"
+  password: "Helso"
+
+text:
+  forgot_password: "Zabudli ste heslo?"
+  no_account: "Nemáte učet?"
+
+buttons:
+  sign_in: "Prihlásiť sa"
+  register: "Zaregistrovať sa teraz"

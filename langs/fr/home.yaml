@@ -9,27 +9,27 @@
 "Commit après commit"
 
 "Librebucket est un léger logiciel forfe auto-hébergé."
-"S it just does the job."
+"Simple a installer et peu de maintenance, ça fait juste le boulot."
 
 # also one line
-"You are currently visiting a third-party instance. This means we do not"
-"own it and are not responsible for any content or actions on this forge."
+"Vous êtes actuellement entrain de visiter une instance tiers. Cela veux dire que nous ne"
+"la possedons pas et nous ne sommes pas responsables de son contenue."
 
 ################# BUTTONS ###################################
 
 # DO NOT REMOVE THE &AMP; thanks
-"Join &amp; register"
-"Sign In"
+"Rejoignez nous &amp; Créez un compte"
+"Connectez vous"
 
 ################## TEXT #####################################
 
 # down below will be like the create the future, commit after commit
-"Why Librebucket?"
-"Lightweight &amp; fast"
+"Pourquoi Librebucket?"
+"Léger &amp; Rapide"
 
 # also one line
-"Librebucket is less than 500MB and lightning fast, even"
-"Raspberry Pi can run it!"
+"Librebucket fait moins de 500MB et est rapide comme l'éclair, même"
+"un Raspberry Pi peut l'exécuter !"
 
 "Coffee To Go, easy install &amp; maintain"
 

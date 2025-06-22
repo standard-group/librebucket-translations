@@ -1,0 +1,79 @@
+################## TITLE ####################################
+
+"Librebucket"
+
+################## TEXT #####################################
+
+# this one line, just separated because of "commit after commit" gradient
+"Créez le futur,"
+"Commit après commit"
+
+"Librebucket est un léger logiciel forfe auto-hébergé."
+"Simple a installer et peu de maintenance, ça fait juste le boulot."
+
+# also one line
+"Vous êtes actuellement entrain de visiter une instance tiers. Cela veux dire que nous ne"
+"la possedons pas et nous ne sommes pas responsables de son contenue."
+
+################# BUTTONS ###################################
+
+# DO NOT REMOVE THE &AMP; thanks
+"Rejoignez nous &amp; Créez un compte"
+"Connectez vous"
+
+################## TEXT #####################################
+
+# down below will be like the create the future, commit after commit
+"Pourquoi Librebucket?"
+"Léger &amp; Rapide"
+
+# also one line
+"Librebucket fait moins de 500MB et est rapide comme l'éclair, même"
+"un Raspberry Pi peut l'exécuter !"
+
+"Relaxez vous, installation &amp; maintenance facile"
+
+# also one line
+"Notre 'seau' est rempli d'outils et de choses, pour"
+"des développeurs, par des développeurs."
+
+# also one line
+"Alternative auto-hébergée a GitHub et GitLab"
+"Une alternative incroyable !"
+
+# also one line
+"GitHub et GitLab sont remplies de télémétrie. Librebucket est une"
+"alternative incroyable !"
+
+"100% gratuit et OSS!"
+
+# also one line
+"Les gens adorent l'opensource. Librebucket le sera"
+"gratuit et opensource pour la vie !"
+
+"Rejoignez-nous"
+
+# also one line
+"Librebucket est fait par de nombreuses personnes motivées, et nous recherchons"
+"votre contribution. Grande ou petite contribution, vous êtes"
+"toujours enrain d'aider Librebucket."
+
+################# BUTTONS ###################################
+
+"Contribuez sue GitHub."
+
+"Dons"
+
+################## FOOTER ###################################
+
+"Version : {{.AppVersion}}"
+
+"Cette page tourne sur Librebucket"
+
+# also one line
+  "Copyright © 2025 Librebucket authors. Content available under CC"
+"BY-SA 4.0."
+
+"Credit aux contributeurs Forgejo's pour l'inspiration du design.."
+
+"Licenses"

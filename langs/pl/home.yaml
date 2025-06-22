@@ -1,67 +1,58 @@
-################## TITLE ####################################
+title: "Librebucket"
 
-"Librebucket"
+tagline:
+  - "Stwórz przyszłość,"
+  - "Popełnij po popełnieniem"
 
-################## TEXT #####################################
+intro:
+  line1: "Librebucket jest samodzielnym kuźnym oprogramowaniem."
+  line2: "Łatwe do zainstalowania i niezawodny, poprostu ono robi swą robotę."
 
-"stwórz przyszłość,"
-"Popełnij po popełnieniem"
+third_party_notice:
+  - "Obecnie odwieszasz instancję zewnętrzną. To oznacza to,"
+  - "że nie jesteśmy właścicielami i nie ponosimy odpowiedzialności za żadną treść ani działania w tej kużni."
 
-"Librebucket jest samodzielnym kuźnym oprogramowaniem."
-"Łatwe do zainstalowania i niezawodny, poprostu ono robi swą robotę."
+buttons:
+  join_register: "Dołącz &amp; zarejestruj się"
+  sign_in: "Zaloguj się"
+  contribute: "Współpracuj na Github"
+  donate: "Daruj"
 
-"Obecnie odwieszasz instancję zewnętrzną. To oznacza to,"
-"że nie jesteśmy właścicielami i nie ponosimy odpowiedzialności za żadną treść ani działania w tej kużni."
+why:
+  headline: "Czemu Librebucket?"
+  subtitle: Jest lekkie &amp; szybkie"
 
-################# BUTTONS ###################################
+features:
+  size_speed:
+    - "Librebucket waży mniej niż 500MB i szybka jak błyskawica, nawet"
+    - "Raspberry Pi działa!"
+  coffee: "Kawa na wynos, łatwe do zainstalowania &amp; do utrzymania"
+  tools:
+    - "nasze 'wadro' jest już wypełnione narzędziami i innymi rzeczami, dla"
+    - "programistów, przez programistów."
+  self_hosted:
+    - "Self-hosted alternative to GitHub and GitLab"
+    - "awesome alternative!"
+  telemetry:
+    - "GitHub i GitLab są pełne telemetrii. Librebucket to"
+    - "świetna alternatywa!"
+  open_source:
+    - "100% darmowy i OSS"
+    - "Standard Group kocha open-source. Librebucket będzie"
+    - "na zawsze darmowy i open-source!"
 
-# DO NOT REMOVE THE &AMP; thanks
-"Dołącz &amp; zarejestruj się"
-"zaloguj się"
+get_involved:
+  title: "Zaangażuj"
+  text:
+    - "Librebucket jest tworzony przez wielu zmotywowanych ludzi i czekamy"
+    - "na Twój wkład. Mały lub duży wkład, nadal"
+    - "robisz duże kroki dla Librebucket".
 
-################## TEXT #####################################
-
-"Czemu Librebucket?"
-"jest lekkie &amp; szybkie"
-
-"Librebucket waży mniej niż 500MB i szybka jak błyskawica, nawet"
-"Raspberry Pi działa!"
-
-"kawa na wynos, łatwe do zainstalowania &amp; do utrzymania"
-
-"nasze'wadro' jest już wypełnione narzędziami i innymi rzeczami, dla"
-"programistów, przez programistów."
-
-"Self-hosted alternative to GitHub and GitLab"
-"awesome alternative!"
-
-"GitHub i GitLab są pełne telemetrii. Librebucket to"
-"świetna alternatywa!"
-
-"100% darmowy i OSS"
-
-"Standard Group kocha open-source. Librebucket będzie"
-"na zawsze darmowy i open-source!"
-
-"Zaangażuj"
-
-"Librebucket jest tworzony przez wielu zmotywowanych ludzi i czekamy"
-"na Twój wkład. Mały lub duży wkład, nadal"
-"robisz duże kroki dla Librebucket".
-
-################# BUTTONS ###################################
-
-"Współpracuj na Github"
-
-"Daruj"
-
-"Wersja: {{.AppVersion}}"
-
-"Strona główna działa na Liberbucket"
-
-"Prawa autorskie © 2025 Librebucket authors. Treść dostępna na licencji CC"
-"BY-SA 4.0."
-
-"Za inspirację do projektu należy podziękować Forgejo."
-
-"Licencje"
+footer:
+  version: "Wersja: {{.AppVersion}}"
+  running: "Strona główna działa na Liberbucket"
+  copyright:
+    - "Prawa autorskie © 2025 Librebucket authors. Treść dostępna na licencji CC"
+    - "BY-SA 4.0."
+  credits: "Za inspirację do projektu należy podziękować Forgejo."
+  licenses: "Licencje"

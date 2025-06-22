@@ -1,0 +1,58 @@
+title: "Librebucket"
+
+tagline:
+  - "Skapa framtiden,"
+  - "begå efter begå"
+
+intro:
+  line1: "Librebucket är en själv-hostad lättvikt mjukvarusmedja."
+  line2: "Enkel att installera och låg underhåll, den gör bara jobbet."
+
+third_party_notice:
+  - "Du besöker för närvarande en tredjepartsinstans. Det betyder att vi inte gör det"
+  - "äger den och ansvarar inte för något innehåll eller handlingar i denna smedja."
+
+buttons:
+  join_register: "Join &amp; register"
+  sign_in: "Logga in"
+  contribute: "Bidra på github"
+  donate: "Donera"
+
+why:
+  headline: "Varför Librebucket?"
+  subtitle: "Lättvikt &amp; snabbt"
+
+features:
+  size_speed:
+    - "Librebucket är mindre än 500 MB och blixtsnabb, även"
+    - "Raspberry Pi kan köra det!"
+  coffee: "Coffee To Go, enkel installation &amp; upprätthålla"
+  tools:
+    - "Vår 'hink' är redan fullpackad med verktyg och sånt, för"
+    - "utvecklare, av utvecklare."
+  self_hosted:
+    - "Själv-hostad alternativ till GitHub och GitLab"
+    - "fantastiskt alternativ!"
+  telemetry:
+    - "GitHub och GitLab är fullt av telemetri. Librebucket är en"
+    - "fantastiskt alternativ!"
+  open_source:
+    - "100% Gratis och OSS"
+    - "Standard Group älskar öppen källkod. Librebucket kommer att vara"
+    - "för alltid fritt och med öppen källkod!"
+
+get_involved:
+  title: "Engagera dig"
+  text:
+    - "Librebucket skapas av många motiverade människor, och vi ser"
+    - "fram emot ditt bidrag. Små eller stora bidrag, du"
+    - "gör fortfarande stora framsteg för Librebucket."
+
+footer:
+  version: "Version: {{.AppVersion}}"
+  running: "Den här hemsidan körs på Librebucket"
+  copyright:
+    - "Copyright © 2025 Librebucket-författare. Innehåll tillgängligt under CC"
+    - "BY-SA 4.0."
+  credits: "Tack till Forgejos bidragsgivare för designinspiration."
+  licenses: "Licenser"

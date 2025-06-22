@@ -1,68 +1,58 @@
-################## TITLE ####################################
+title: "Librebucket"
 
-"Librebucket"
+tagline:
+  - "Alkosd meg a jövőt,"
+  - "commitről commitra"
 
-################## TEXT #####################################
+intro:
+  line1: "A Librebucket egy könnyű, önhostolt forge fejlesztőknek."
+  line2: "Egyszerű telepíteni és karbantartani, egyszerűen működik."
 
-"Alkosd meg a jövőt,"
-"commitről commitra"
+third_party_notice:
+  - "Jelenleg egy külső példányt látogatsz. Ez azt jelenti, hogy nem"
+  - "mi üzemeltetjük, és nem vállalunk felelősséget a forge-on található tartalomért vagy tevékenységekért."
 
-"A Librebucket egy könnyű, önhostolt forge fejlesztőknek."
-"Egyszerű telepíteni és karbantartani, egyszerűen működik."
+buttons:
+  join_register: "Csatlakozás &amp; regisztráció"
+  sign_in: "Bejelentkezés"
+  contribute: "Hozzájárulás a Githubon"
+  donate: "Támogatás"
 
-"Jelenleg egy külső példányt látogatsz. Ez azt jelenti, hogy nem"
-"mi üzemeltetjük, és nem vállalunk felelősséget a forge-on található tartalomért vagy tevékenységekért."
+why:
+  headline: "Miért a Librebucket?"
+  subtitle: "Könnyű &amp; gyors"
 
-################# BUTTONS ###################################
+features:
+  size_speed:
+    - "A Librebucket kevesebb mint 500MB-ot foglal és villámgyors,"
+    - "még egy Raspberry Pi is képes futtatni!"
+  coffee: "Coffee To Go, egyszerű telepítés &amp; karbantartás"
+  tools:
+    - "A 'bucket'-ünk már tele van eszközökkel és mindennel,"
+    - "amire a fejlesztőknek szüksége lehet, fejlesztőktől fejlesztőknek."
+  self_hosted:
+    - "Önhosztolt alternatíva a GitHub és GitLab helyett"
+    - "Une alternative incroyable !"
+  telemetry:
+    - "A GitHub és a GitLab tele van telemetriával. A Librebucket —"
+    - "menő alternatíva!"
+  open_source:
+    - "100% Ingyenes és nyílt forráskódú"
+    - "A Standard Group szereti a nyílt forráskódot. A Librebucket"
+    - "mindig ingyenes és nyílt forráskódú lesz!"
 
-"Csatlakozás &amp; regisztráció"
-"Bejelentkezés"
+get_involved:
+  title: "Csatlakozz"
+  text:
+    - "A Librebucketet sok motivált ember fejleszti, és várjuk"
+    - "a te hozzájárulásodat is. Legyen az kicsi vagy nagy —"
+    - "fontos lépés a Librebucket számára."
 
-################## TEXT #####################################
-
-"Miért a Librebucket?"
-"Könnyű &amp; gyors"
-
-"A Librebucket kevesebb mint 500MB-ot foglal és villámgyors,"
-"még egy Raspberry Pi is képes futtatni!"
-
-"Coffee To Go, egyszerű telepítés &amp; karbantartás"
-
-"A 'bucket'-ünk már tele van eszközökkel és mindennel,"
-"amire a fejlesztőknek szüksége lehet, fejlesztőktől fejlesztőknek."
-
-"Önhosztolt alternatíva a GitHub és GitLab helyett"
-"menő alternatíva!"
-
-"A GitHub és a GitLab tele van telemetriával. A Librebucket —"
-"menő alternatíva!"
-
-"100% Ingyenes és nyílt forráskódú"
-
-"A Standard Group szereti a nyílt forráskódot. A Librebucket"
-"mindig ingyenes és nyílt forráskódú lesz!"
-
-"Csatlakozz"
-
-"A Librebucketet sok motivált ember fejleszti, és várjuk"
-"a te hozzájárulásodat is. Legyen az kicsi vagy nagy —"
-"fontos lépés a Librebucket számára."
-
-################# BUTTONS ###################################
-
-"Hozzájárulás a Githubon"
-
-"Támogatás"
-
-################## FOOTER ###################################
-
-"Verzió: {{.AppVersion}}"
-
-"Ez a kezdőlap a Librebucketen fut."
-
-"Copyright © 2025 Librebucket szerzők. A tartalom elérhető a CC"
-"BY-SA 4.0 licenc alatt."
-
-"Köszönet a Forgejo közreműködőinek a dizájn inspirációjáért."
-
-"Licenszek"
+footer:
+  version: "Verzió: {{.AppVersion}}"
+  running: "Ez a kezdőlap a Librebucketen fut."
+  copyright:
+    - "Copyright © 2025 Librebucket szerzők. A tartalom elérhető a CC"
+    - "BY-SA 4.0 licenc alatt."
+  credits: "Köszönet a Forgejo közreműködőinek a dizájn inspirációjáért."
+  licenses: "Licenszek"

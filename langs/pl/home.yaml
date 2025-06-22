@@ -1,0 +1,67 @@
+################## TITLE ####################################
+
+"Librebucket"
+
+################## TEXT #####################################
+
+"stwórz przyszłość,"
+"Popełnij po popełnieniem"
+
+"Librebucket jest samodzielnym kuźnym oprogramowaniem."
+"Łatwe do zainstalowania i niezawodny, poprostu ono robi swą robotę."
+
+"Obecnie odwieszasz instancję zewnętrzną. To oznacza to,"
+"że nie jesteśmy właścicielami i nie ponosimy odpowiedzialności za żadną treść ani działania w tej kużni."
+
+################# BUTTONS ###################################
+
+# DO NOT REMOVE THE &AMP; thanks
+"Dołącz &amp; zarejestruj się"
+"zaloguj się"
+
+################## TEXT #####################################
+
+"Czemu Librebucket?"
+"jest lekkie &amp; szybkie"
+
+"Librebucket waży mniej niż 500MB i szybka jak błyskawica, nawet"
+"Raspberry Pi działa!"
+
+"kawa na wynos, łatwe do zainstalowania &amp; do utrzymania"
+
+"nasze'wadro' jest już wypełnione narzędziami i innymi rzeczami, dla"
+"programistów, przez programistów."
+
+"Self-hosted alternative to GitHub and GitLab"
+"awesome alternative!"
+
+"GitHub i GitLab są pełne telemetrii. Librebucket to"
+"świetna alternatywa!"
+
+"100% darmowy i OSS"
+
+"Standard Group kocha open-source. Librebucket będzie"
+"na zawsze darmowy i open-source!"
+
+"Zaangażuj"
+
+"Librebucket jest tworzony przez wielu zmotywowanych ludzi i czekamy"
+"na Twój wkład. Mały lub duży wkład, nadal"
+"robisz duże kroki dla Librebucket".
+
+################# BUTTONS ###################################
+
+"Współpracuj na Github"
+
+"Daruj"
+
+"Wersja: {{.AppVersion}}"
+
+"Strona główna działa na Liberbucket"
+
+"Prawa autorskie © 2025 Librebucket authors. Treść dostępna na licencji CC"
+"BY-SA 4.0."
+
+"Za inspirację do projektu należy podziękować Forgejo."
+
+"Licencje"

@@ -1,1 +1,79 @@
+################## TITLE ####################################
 
+"Librebucket"
+
+################## TEXT #####################################
+
+# this one line, just separated because of "commit after commit" gradient
+"Créez le futur,"
+"Commit après commit"
+
+"Librebucket est un léger logiciel forfe auto-hébergé."
+"S it just does the job."
+
+# also one line
+"You are currently visiting a third-party instance. This means we do not"
+"own it and are not responsible for any content or actions on this forge."
+
+################# BUTTONS ###################################
+
+# DO NOT REMOVE THE &AMP; thanks
+"Join &amp; register"
+"Sign In"
+
+################## TEXT #####################################
+
+# down below will be like the create the future, commit after commit
+"Why Librebucket?"
+"Lightweight &amp; fast"
+
+# also one line
+"Librebucket is less than 500MB and lightning fast, even"
+"Raspberry Pi can run it!"
+
+"Coffee To Go, easy install &amp; maintain"
+
+# also one line
+"Our 'bucket' is packed with tools and stuff already, for"
+"developers, by developers."
+
+# also one line
+"Self-hosted alternative to GitHub and GitLab"
+"awesome alternative!"
+
+# also one line
+"GitHub and GitLab are full of telemetry. Librebucket is an"
+"awesome alternative!"
+
+"100% Free and OSS"
+
+# also one line
+"Standard Group loves open-source. Librebucket will be"
+"forever free and open-source!"
+
+"Get Involved"
+
+# also one line
+"Librebucket is made by many motivated people, and we are looking"
+"forward to your contribution. Small or big contributions, you are"
+"still making big steps for Librebucket."
+
+################# BUTTONS ###################################
+
+"Contribute on Github"
+
+"Donate"
+
+################## FOOTER ###################################
+
+"Version: {{.AppVersion}}"
+
+"This home page is running on Librebucket"
+
+# also one line
+  "Copyright © 2025 Librebucket authors. Content available under CC"
+"BY-SA 4.0."
+
+"Credit to the Forgejo's contributors for design inspiration."
+
+"Licenses"

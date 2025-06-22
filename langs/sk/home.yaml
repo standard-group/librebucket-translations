@@ -1,0 +1,58 @@
+title: "Librebucket"
+
+tagline:
+  - "Vytvor budúcnosť,"
+  - "commit po commitu"
+
+intro:
+  line1: "Librebucket je self-hosted ľahký software forge."
+  line2: "ľahký na inštaláciu a nízka údržba, proste robí svoju prácu."
+
+third_party_notice:
+  - "Momentálne navštevujete  third-party instance. To znamená že to"
+  - "nevlastný me a nie sme zodpovedný za žiadny obsah alebo akcie na tomto forge."
+
+buttons:
+  join_register: "Pripojiť &amp; register"
+  sign_in: "Prihlásiť sa"
+  contribute: "Prispéj na Github"
+  donate: "Prispéj"
+
+why:
+  headline: "Prečo Librebucket?"
+  subtitle: "ľahký &amp; fast"
+
+features:
+  size_speed:
+    - "Librebucket je menšý než 500MB a bleskovo rýchly, dokonca aj"
+    - "Raspberry Pi ho môže bežať!"
+  coffee: "Káva so sebou, ľahká ˇinštalácia &amp; maintain"
+  tools:
+    - "Náš 'bucket' je preplnený s náradím a vecami pripravenými, pre"
+    - "developerov, od developers."
+  self_hosted:
+    - "Samo hostovaná alternatíva pre GitHub a GitLab"
+    - "výborná alternatíva!"
+  telemetry:
+    - "GitHub a GitLab sú plne telemetrie . Librebucket je"
+    - "výborná alternatíva !"
+  open_source:
+    - "100% Zadarmo a OSS"
+    - "Štandardná Skupina miluje open-source. Librebucket bude"
+    - "navždy zadarmo a open-source!"
+
+get_involved:
+  title: "Zapoj sa"
+  text:
+    - "Librebucket je vytvorený mnohými motivovanými ľuďmi, a tešíme sa"
+    - "na vaše príspevky. Malé alebo veľké príspevky, stále"
+    - "robíš veľké kroky pre Librebucket."
+
+footer:
+  version: "Verzia: {{.AppVersion}}"
+  running: "Táto domová stránka beží na Librebucket"
+  copyright:
+    - "Autorské práva © 2025 Librebucket autory. Obsah je dostupný pod licenciou CC"
+    - "BY-SA 4.0."
+  credits: "Poďakovanie patrí prispievateľom Forgejo's za inšpiráciu pri dizajne."
+  licenses: "Licencie"

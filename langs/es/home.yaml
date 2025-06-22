@@ -1,0 +1,67 @@
+################## TITLE ####################################
+
+"Librebucket"
+
+################## TEXT #####################################
+
+"Crea el futuro,"
+"confirmacion tras confirmacion"
+
+"Librebucket es una fragua de software ligero autohosteado."
+"Facil de instalar y bajo mantenimiento."
+
+"Estas actualmente visitando a intencia de terceros. Eso significa que no"
+"poseerlo y no ser responsable de ningun contenido o acciones en esta fragua."
+
+################# BUTTONS ###################################
+
+# DO NOT REMOVE THE &AMP; thanks
+"Unete &amp; registrar"
+"Iniciar sesion"
+
+################## TEXT #####################################
+
+"Porque Librebucket?"
+"Ligero &amp; rapido"
+
+"Librebucket es menos de 500mb y es rapidisimo, incluso"
+"Raspberry Pi puede ejecutarlo!"
+
+"Cafe para ir, instalacion facil &amp; mantener"
+
+"Nuestro 'balde' esta lleno de herramientas y esas cosas ya"
+"Desarrolladores por Desarrolladores"
+
+"Alternativa autohospedada para GitHub y GitLab"
+"Alternativa asombrosa!"
+
+"GitHub y GitLab estan llenos de telemetria, Librebucket es una"
+"alternativa asombrosa!"
+
+"100% Gratis y OSS"
+
+"Standard Group ama el codigo abierto"
+"Para siempre gratis y codigo abierto!"
+
+"Se involucrado"
+
+"Librebucket esta hecho por muchas gente motivada y estamos de busca"
+"Esperamos su contribucion. Pequeñas o grandes contribuciones, eres"
+"Seguimos haciendo pasos grandes para Librebucket."
+
+################# BUTTONS ###################################
+
+"Constribuir en GitHub"
+
+"Donar"
+
+"Version: {{.AppVersion}}"
+
+"Esta pagina de inicio se ejecuta en Librebucket"
+
+"Copyright © 2025 Autores de Librebucket. Contenido disponible bajo CC"
+"BY-SA 4.0."
+
+"Creditos a los colaboradores de Forgejo por la inspiracion del diseño."
+
+"Licencias"

@@ -1,0 +1,67 @@
+################## TITLE ####################################
+
+"Librebucket"
+
+################## TEXT #####################################
+
+"Create the future,"
+"commit after commit"
+
+"Librebucket is a self-hosted lightweight software forge."
+"Easy to install and low maintenance, it just does the job."
+
+"You are currently visiting a third-party instance. This means we do not"
+"own it and are not responsible for any content or actions on this forge."
+
+################# BUTTONS ###################################
+
+# DO NOT REMOVE THE &AMP; thanks
+"Join &amp; register"
+"Sign In"
+
+################## TEXT #####################################
+
+"Why Librebucket?"
+"Lightweight &amp; fast"
+
+"Librebucket is less than 500MB and lightning fast, even"
+"Raspberry Pi can run it!"
+
+"Coffee To Go, easy install &amp; maintain"
+
+"Our 'bucket' is packed with tools and stuff already, for"
+"developers, by developers."
+
+"Self-hosted alternative to GitHub and GitLab"
+"awesome alternative!"
+
+"GitHub and GitLab are full of telemetry. Librebucket is an"
+"awesome alternative!"
+
+"100% Free and OSS"
+
+"Standard Group loves open-source. Librebucket will be"
+"forever free and open-source!"
+
+"Get Involved"
+
+"Librebucket is made by many motivated people, and we are looking"
+"forward to your contribution. Small or big contributions, you are"
+"still making big steps for Librebucket."
+
+################# BUTTONS ###################################
+
+"Contribute on Github"
+
+"Donate"
+
+"Version: {{.AppVersion}}"
+
+"This home page is running on Librebucket"
+
+"Copyright © 2025 Librebucket authors. Content available under CC"
+"BY-SA 4.0."
+
+"Credit to the Forgejo's contributors for design inspiration."
+
+"Licenses"

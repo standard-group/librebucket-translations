@@ -1,15 +1,13 @@
-################## TITLE ####################################
+title: "Login - Librebucket"
 
-"Login - Librebucket"
+form:
+  username_or_email: "Username or email"
+  password: "Password"
 
-################## FORMS ####################################
+text:
+  forgot_password: "Forgot your password?"
+  no_account: "Don't have an account?"
 
-"Username or email"
-"Password"
-
-################## TEXT & BUTTONS ###########################
-
-"Forgot your password?"
-"Sign in"
-"Don't have an account?"
-"Register now"
+buttons:
+  sign_in: "Sign in"
+  register: "Register now"

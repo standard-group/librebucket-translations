@@ -13,20 +13,20 @@ third_party_notice:
   - "own it and are not responsible for any content or actions on this forge."
 
 buttons:
-  join_register: "Join &amp; register"
+  join_register: "Join & register"
   sign_in: "Sign In"
   contribute: "Contribute on Github"
   donate: "Donate"
 
 why:
   headline: "Why Librebucket?"
-  subtitle: "Lightweight &amp; fast"
+  subtitle: "Lightweight & fast"
 
 features:
   size_speed:
     - "Librebucket is less than 500MB and lightning fast, even"
     - "Raspberry Pi can run it!"
-  coffee: "Coffee To Go, easy install &amp; maintain"
+  coffee: "Coffee To Go, easy install & maintain"
   tools:
     - "Our 'bucket' is packed with tools and stuff already, for"
     - "developers, by developers."

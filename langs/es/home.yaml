@@ -13,20 +13,20 @@ third_party_notice:
   - "la poseemos ni somos responsables por ningún contenido o acción en esta forja."
 
 buttons:
-  join_register: "Únete &amp; regístrate"
+  join_register: "Únete & regístrate"
   sign_in: "Iniciar sesión"
   contribute: "Contribuir en GitHub"
   donate: "Donar"
 
 why:
   headline: "¿Por qué Librebucket?"
-  subtitle: "Ligero &amp; rápido"
+  subtitle: "Ligero & rápido"
 
 features:
   size_speed:
     - "Librebucket pesa menos de 500 MB y es rapidísimo — incluso"
     - "una Raspberry Pi puede ejecutarlo!"
-  coffee: "Café para llevar, instalación fácil &amp; mantenimiento simple"
+  coffee: "Café para llevar, instalación fácil & mantenimiento simple"
   tools:
     - "Nuestro 'balde' ya está lleno de herramientas y otras cosas,"
     - "de desarrolladores, para desarrolladores."

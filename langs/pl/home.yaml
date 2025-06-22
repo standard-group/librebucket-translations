@@ -13,20 +13,20 @@ third_party_notice:
   - "że nie jesteśmy właścicielami i nie ponosimy odpowiedzialności za żadną treść ani działania w tej kużni."
 
 buttons:
-  join_register: "Dołącz &amp; zarejestruj się"
+  join_register: "Dołącz & zarejestruj się"
   sign_in: "Zaloguj się"
   contribute: "Współpracuj na Github"
   donate: "Daruj"
 
 why:
   headline: "Czemu Librebucket?"
-  subtitle: "Jest lekkie &amp; szybkie"
+  subtitle: "Jest lekkie & szybkie"
 
 features:
   size_speed:
     - "Librebucket waży mniej niż 500MB i szybka jak błyskawica, nawet"
     - "Raspberry Pi działa!"
-  coffee: "Kawa na wynos, łatwe do zainstalowania &amp; do utrzymania"
+  coffee: "Kawa na wynos, łatwe do zainstalowania & do utrzymania"
   tools:
     - "nasze 'wadro' jest już wypełnione narzędziami i innymi rzeczami, dla"
     - "programistów, przez programistów."
@@ -46,7 +46,7 @@ get_involved:
   text:
     - "Librebucket jest tworzony przez wielu zmotywowanych ludzi i czekamy"
     - "na Twój wkład. Mały lub duży wkład, nadal"
-    - "robisz duże kroki dla Librebucket".
+    - "robisz duże kroki dla Librebucket"
 
 footer:
   version: "Wersja: {{.AppVersion}}"

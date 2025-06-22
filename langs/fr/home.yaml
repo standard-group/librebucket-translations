@@ -2,7 +2,7 @@ title: "Librebucket"
 
 tagline:
   - "Créez le futur,"
-  - "Commit après commit""
+  - "Commit après commit"
 
 intro:
   line1: "Librebucket est un léger logiciel forfe auto-hébergé."
@@ -13,20 +13,20 @@ third_party_notice:
   - "la possedons pas et nous ne sommes pas responsables de son contenue."
 
 buttons:
-  join_register: "Rejoignez nous &amp; Créez un compte"
+  join_register: "Rejoignez nous & Créez un compte"
   sign_in: "Connectez vous"
   contribute: "Contribuez sue GitHub."
   donate: "Dons"
 
 why:
   headline: "Pourquoi Librebucket?"
-  subtitle: "Léger &amp; Rapide"
+  subtitle: "Léger & Rapide"
 
 features:
   size_speed:
     - "Librebucket fait moins de 500MB et est rapide comme l'éclair, même"
     - "un Raspberry Pi peut l'exécuter !"
-  coffee: "Relaxez vous, installation &amp; maintenance facile"
+  coffee: "Relaxez vous, installation & maintenance facile"
   tools:
     - "Notre 'seau' est rempli d'outils et de choses, pour"
     - "des développeurs, par des développeurs."

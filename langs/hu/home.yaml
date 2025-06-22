@@ -13,20 +13,20 @@ third_party_notice:
   - "mi üzemeltetjük, és nem vállalunk felelősséget a forge-on található tartalomért vagy tevékenységekért."
 
 buttons:
-  join_register: "Csatlakozás &amp; regisztráció"
+  join_register: "Csatlakozás & regisztráció"
   sign_in: "Bejelentkezés"
   contribute: "Hozzájárulás a Githubon"
   donate: "Támogatás"
 
 why:
   headline: "Miért a Librebucket?"
-  subtitle: "Könnyű &amp; gyors"
+  subtitle: "Könnyű & gyors"
 
 features:
   size_speed:
     - "A Librebucket kevesebb mint 500MB-ot foglal és villámgyors,"
     - "még egy Raspberry Pi is képes futtatni!"
-  coffee: "Coffee To Go, egyszerű telepítés &amp; karbantartás"
+  coffee: "Coffee To Go, egyszerű telepítés & karbantartás"
   tools:
     - "A 'bucket'-ünk már tele van eszközökkel és mindennel,"
     - "amire a fejlesztőknek szüksége lehet, fejlesztőktől fejlesztőknek."

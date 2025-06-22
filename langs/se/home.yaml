@@ -13,20 +13,20 @@ third_party_notice:
   - "äger den och ansvarar inte för något innehåll eller handlingar i denna smedja."
 
 buttons:
-  join_register: "Join &amp; register"
+  join_register: "Join & register"
   sign_in: "Logga in"
   contribute: "Bidra på github"
   donate: "Donera"
 
 why:
   headline: "Varför Librebucket?"
-  subtitle: "Lättvikt &amp; snabbt"
+  subtitle: "Lättvikt & snabbt"
 
 features:
   size_speed:
     - "Librebucket är mindre än 500 MB och blixtsnabb, även"
     - "Raspberry Pi kan köra det!"
-  coffee: "Coffee To Go, enkel installation &amp; upprätthålla"
+  coffee: "Coffee To Go, enkel installation & upprätthålla"
   tools:
     - "Vår 'hink' är redan fullpackad med verktyg och sånt, för"
     - "utvecklare, av utvecklare."

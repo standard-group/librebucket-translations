@@ -13,20 +13,20 @@ third_party_notice:
   - "nevlastný me a nie sme zodpovedný za žiadny obsah alebo akcie na tomto forge."
 
 buttons:
-  join_register: "Pripojiť &amp; register"
+  join_register: "Pripojiť & register"
   sign_in: "Prihlásiť sa"
   contribute: "Prispéj na Github"
   donate: "Prispéj"
 
 why:
   headline: "Prečo Librebucket?"
-  subtitle: "ľahký &amp; fast"
+  subtitle: "ľahký & fast"
 
 features:
   size_speed:
     - "Librebucket je menšý než 500MB a bleskovo rýchly, dokonca aj"
     - "Raspberry Pi ho môže bežať!"
-  coffee: "Káva so sebou, ľahká ˇinštalácia &amp; maintain"
+  coffee: "Káva so sebou, ľahká ˇinštalácia & maintain"
   tools:
     - "Náš 'bucket' je preplnený s náradím a vecami pripravenými, pre"
     - "developerov, od developers."

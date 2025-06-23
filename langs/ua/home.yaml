@@ -49,7 +49,7 @@ get_involved:
     - "важливий крок для Лібребакет."
 
 footer:
-  version: "Версія: {{.AppVersion}}"
+  version: "Версія:"
   running: "Ця домашня сторінка працює на Librebucket."
   copyright:
     - "Copyright © 2025 автори Librebucket Контент доступний за ліцензією CC"

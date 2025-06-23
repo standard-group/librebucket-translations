@@ -1,80 +1,59 @@
-# CREDITS FOR TRANSLATING:
-# Aidyzaspro
+title: "Librebucket"
 
-################## PAVADINIMAS ####################################
+tagline:
+  - "Kurkite ateitį,"
+  - "įsipareigojimas po įsipareigojimo"
 
-"Librebucket"
+intro:
+  line1: "Librebucket yra self-hosted lightweight software Forge"
+  line2: "Lengvai atsisiunčiamas ir nereikia daug priežiūros, tiesiog atlieka savo darbą kaip reikiant."
 
-################## TEKSTAS #####################################
+third_party_notice:
+  - "Šiuo metu lankotės trečiosios šalies instancijoje. Tai reiškia mums tai"
+  - "nepriklauso ir neesame atsakingi už bet kokį turinį ar veikšmą šitame forge."
 
-#ši viena eilutė tiesiog atskirta dėl gradiento „pakartotinis patvirtinimas po patvirtinimo“
-"Kurkite ateitį,"
-"įsipareigojimas po įsipareigojimo"
+buttons:
+  join_register: "Prisijunkite& registruotis"
+  sign_in: "Užsiregistruokite"
+  contribute: "Prisidėkite prie Github"
+  donate: "Paaukokite"
 
-"Librebucket yra self-hosted lightweight software Forge"
-"Lengvai atsisiunčiamas ir nereikia daug priežiūros, tiesiog atlieka savo darbą kaip reikiant."
+why:
+  headline: "Kodėl Librebucket?"
+  subtitle: "Lengvas & greitas"
 
-# taip pat viena eilutė
-"Šiuo metu lankotės trečiosios šalies instancijoje. Tai reiškia mums tai"
-"nepriklauso ir neesame atsakingi už bet kokį turinį ar veikšmą šitame forge."
+features:
+  size_speed:
+    - "Librebucket yra mažiau negu 500MB ir net gan greitas, net"
+    - "Raspberry Pi gali tai pavežti!"
+  coffee: "Kava išsinešimui, lengvas atsisiuntimas & prižiūrėjimas"
+  tools:
+    - "Mūsų 'kibiras' yra kupinas įrankiais ir dalykais, dėl"
+    - "kūrėjų, nuo kurėjų."
+  self_hosted:
+    - "Savarankiško talpinimo alternatyva nuo GitHub ir GitLab"
+    - "nuostabus alternatyvas"
+  telemetry:
+    - "GitHub ir GitLab yra pilni telemetrijos. Librebucket yra"
+    - "žiauriai nuostabus alternatyvas!"
+  open_source:
+    - "100% Nemokamas ir OSS"
+    - "Standard Group mėgsta atviras kodo programas. Librebucket bus taip pat"
+    - "nuolatos nemokamas ir atviru kodu!"
 
-################# MYGTUKAI###################################
+get_involved:
+  title: "Įsitraukite"
+  text:
+    - "Librebucket yra sukurtas daugelis motyvuotų žmonių, ir mes taip pat laukiame"
+    - "jūsų indelio. Maži ar dideli indėliai, jūs vis tiek"
+    - "prisidedate prie Librebucket."
 
-#NENUIMKITE & ačiū
-"Prisijunkite& registruotis"
-"Užsiregistruokite"
+footer:
+  version: "Versija:"
+  running: "Šis pagrindinis puslapis veikia ant Librebucket"
+  copyright:
+    - "Copyright © 2025 Librebucket autoriai. Turinys pasiekiamas pagal CC"
+    - "BY-SA 4.0."
+  credits: "Kreditai eina Forgejo's indeliui dėl dizaino įkvėpimo."
+  licenses: "Licenzijos"
 
-################## TEKSTAS #####################################
-
-# apačioje bus kaip kurti ateitį, įsipareigojimas po įsipareigojimo
-"Kodėl Librebucket?"
-"Lengvas& greitas"
-
-# taip pat viena eilutė
-"Librebucket yra mažiau negu 500MB ir net gan greitas, net"
-"Raspberry Pi gali tai pavežti!"
-
-"Kava išsinešimui, lengvas atsisiuntimas & prižiūrėjimas"
-
-#taip pat viena eilutė
-"Mūsų 'kibiras' yra kupinas įrankiais ir dalykais, dėl"
-"kūrėjų, nuo kurėjų."
-
-# taip pat viena eilutė
-"Savarankiško talpinimo alternatyva nuo GitHub ir GitLab"
-"nuostabus alternatyvas"
-
-# taip pat viena eilutė
-"GitHub ir GitLab yra pilni telemetrijos. Librebucket yra"
-"žiauriai nuostabus alternatyvas!"
-
-"100% Nemokamas ir OSS"
-
-# taip pat viena eilut4
-"Standard Group mėgsta atviras kodo programas. Librebucket bus taip pat"
-"nuolatos nemokamas ir atviru kodu!"
-
-"Įsitraukite"
-
-# taip pat viena eilutė
-"Librebucket yra sukurtas daugelis motyvuotų žmonių, ir mes taip pat laukiame"
-"jūsų indelio. Maži ar dideli indėliai, jūs vis tiek"
-"prisidedate prie Librebucket."
-
-################# MYGTUKAI ###################################
-
-"Prisidėkite prie Github"
-
-"Paaukokite"
-
-"Versija: {{.AppVersion}}"
-
-"Šis pagrindinis puslapis veikia ant Librebucket"
-
-# taip pat viena eilutė
-"Copyright © 2025 Librebucket autoriai. Turinys pasiekiamas pagal CC"
-"BY-SA 4.0."
-
-"Kreditai eina Forgejo's indeliui dėl dizaino įkvėpimo."
-
-"Licenzijos"

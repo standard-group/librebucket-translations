@@ -49,7 +49,7 @@ get_involved:
     - "robíš veľké kroky pre Librebucket."
 
 footer:
-  version: "Verzia: {{.AppVersion}}"
+  version: "Verzia:"
   running: "Táto domová stránka beží na Librebucket"
   copyright:
     - "Autorské práva © 2025 Librebucket autory. Obsah je dostupný pod licenciou CC"

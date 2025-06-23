@@ -49,7 +49,7 @@ get_involved:
     - "fontos lépés a Librebucket számára."
 
 footer:
-  version: "Verzió: {{.AppVersion}}"
+  version: "Verzió:"
   running: "Ez a kezdőlap a Librebucketen fut."
   copyright:
     - "Copyright © 2025 Librebucket szerzők. A tartalom elérhető a CC"

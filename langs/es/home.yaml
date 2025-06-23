@@ -49,7 +49,7 @@ get_involved:
     - "tu ayuda impulsa Librebucket hacia adelante!"
 
 footer:
-  version: "Versión: {{.AppVersion}}"
+  version: "Versión:"
   running: "Esta página de inicio está ejecutándose en Librebucket"
   copyright:
     - "Copyright © 2025 Autores de Librebucket. Contenido disponible bajo"

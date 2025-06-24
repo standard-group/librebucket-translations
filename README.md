@@ -43,7 +43,7 @@ This repository has MIT license, please follow it.
 ## Credits:
 
 - [X] English - 100% (translators: [@techplayz32](https://github.com/techplayz32))
-- [ ] Arabic - 3% (translators: [@aithereh]())
+- [ ] Arabic - 3% (translators: [@aitherka](https://github.com/aitherka))
 - [ ] Belarussian - 0%
 - [ ] Bosnian - 0%
 - [ ] Bulgarian - 0%

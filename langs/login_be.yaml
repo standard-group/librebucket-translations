@@ -1,0 +1,13 @@
+title: "Уваход - Librebucket"
+
+form:
+  username_or_email: "Імя карыстальніка або email"
+  password: "Пароль"
+
+text:
+  forgot_password: "Забылі пароль?"
+  no_account: "Няма ўліковага запісу?"
+
+buttons:
+  sign_in: "Увайсці"
+  register: "Зарэгістравацца зараз"

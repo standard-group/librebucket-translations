@@ -44,7 +44,7 @@ This repository has MIT license, please follow it.
 
 - [X] English - 100% (translators: [@techplayz32](https://github.com/techplayz32))
 - [ ] Arabic - 3% (translators: [@aitherka](https://github.com/aitherka))
-- [ ] Belarussian - 0%
+- [X] Belarussian - 100% (translators: [@ultracancerbaby](https://github.com/ultracancerbaby))
 - [ ] Bosnian - 0%
 - [ ] Bulgarian - 0%
 - [ ] Catalan - 0%
